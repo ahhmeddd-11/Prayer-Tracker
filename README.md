@@ -196,7 +196,7 @@ If you find this app helpful, please:
 
 For questions, suggestions, or support:
 - **GitHub Issues**: [Open an issue](https://github.com/your-username/Prayer-Tracker/issues)
-- **Email**: your-email@example.com
+- **Email**: syedahmed4957@gmail.com
 
 ---
 
