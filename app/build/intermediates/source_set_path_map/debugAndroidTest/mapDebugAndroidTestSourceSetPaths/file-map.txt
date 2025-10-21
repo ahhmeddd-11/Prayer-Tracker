@@ -1,0 +1,4 @@
+com.example.prayertracker.test.app-androidTest-0 D:\Prayer-Tracker\app\build\generated\res\resValues\androidTest\debug
+com.example.prayertracker.test.app-mergeDebugAndroidTestResources-1 D:\Prayer-Tracker\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.prayertracker.test.app-mergeDebugAndroidTestResources-2 D:\Prayer-Tracker\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.prayertracker.test.app-debugAndroidTest-3 D:\Prayer-Tracker\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
